@@ -1,0 +1,13 @@
+# Excuse Championship — local run leftovers (kestrel round)
+__pycache__/
+*.py[cod]
+.pytest_cache/
+output/
+entry.txt
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+.venv/
+venv/
+u-brisk-kestrel-93-the-one-line-excuse-championship-37f2bb6e-kit/
